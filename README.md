@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard that analyzes Netflix's content library — covering movies, TV shows, genres, ratings, and global content distribution.
 
-![Dashboard Preview](<img width="1442" height="805" alt="image" src="https://github.com/user-attachments/assets/1a13ab07-e359-491a-aa17-2198e5d31d10" />
-)
+## Dashboard Preview
+<img width="1442" height="805" alt="Screenshot 2026-06-26 123553" src="https://github.com/user-attachments/assets/c21445af-11f3-4efe-be99-afe572037f2e" />
 
 ## 📊 Overview
 
