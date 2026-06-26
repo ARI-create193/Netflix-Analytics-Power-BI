@@ -35,8 +35,14 @@ netflix-analytics-dashboard/
 │
 ├── Netflix_Dashboard.pbix      # Main Power BI dashboard file
 │
-├── images/                     # Dashboard screenshots
-│   └── dashboard_preview.png
+├── icons/                       # UI icons used in the dashboard
+│   ├── comedy.png
+│   ├── countries.png
+│   ├── eraser.png
+│   ├── live-camera.png
+│   ├── movies-app.png
+│   ├── netflix.png
+│   └── television.png
 │
 ├── dataset/                    # Raw dataset used in the dashboard
 │   └── netflix_titles.csv
