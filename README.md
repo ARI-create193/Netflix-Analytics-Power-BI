@@ -44,6 +44,8 @@ netflix-analytics-dashboard/
 │   ├── netflix.png
 │   └── television.png
 │
+├── Netflix_Dashboard.pbit      #Template File
+│
 ├── dataset/                    # Raw dataset used in the dashboard
 │   └── netflix_titles.csv
 │
